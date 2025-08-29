@@ -18,8 +18,8 @@ It can be used to test commit history patterns, contribution graphs, or demo Git
 ## Installation
 1. Clone or unzip the project:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/CommitBot.git
-   cd CommitBot
+   git clone 
+   cd CommitBot https://github.com/ChanithaAbey/Commit-Bot
    ```
 
 2. Install dependencies:
