@@ -42,3 +42,4 @@ This will generate 100 random commits dated within the past year and push them t
 ## Disclaimer
 This project is for **educational and demo purposes only**.  
 Avoid using it to mislead others about your actual contribution history.
+Use at your own risk!
