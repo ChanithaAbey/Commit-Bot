@@ -28,7 +28,7 @@ It can be used to test commit history patterns, contribution graphs, or demo Git
    ```
 
 ## Usage
-Run the script with Node.js:
+Move all files into cloned repo and Run the script with Node.js:
 ```bash
 node index.js
 ```
